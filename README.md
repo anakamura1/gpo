@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Active Directory Group Policy Objects/h1>
+<h1>Active Directory Group Policy Objects</h1>
 This tutorial outlines the implementation of Group Policy Objects in Active Directory with a focus on Account Lockouts.<br />
 
 <h2>Prerequisites</h2>
